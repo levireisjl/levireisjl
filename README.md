@@ -5,7 +5,7 @@ Tenho interesse em **desenvolvimento de software**, **educação** e **tecnologi
 
  Atualmente estudando:
 - CS50x (Harvard)
-- Ciência da computação
+- Ciência da computação (UDF)
 ---
 
 
